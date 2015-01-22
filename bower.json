@@ -1,0 +1,21 @@
+{
+  "name": "feature-atm",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bizweekgraphics/feature-atm",
+  "authors": [
+    "dyep49 <dyep49@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.2.0",
+    "bootstrap-sass-official": "~3.3.1"
+  }
+}
